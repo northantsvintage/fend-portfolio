@@ -4,10 +4,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="72px" height="72px" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
 <style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
+ </style>
 <![CDATA[
 ]]>
 </style>
-<text transform="matrix(1 0 0 1 8.085 59.4609)" style="fill:#6D5343; font-family:'NanumPen'; font-size:72.6967;">ap</text>
+<text transform="matrix(1 0 0 1 8.085 59.4609)" style="fill:#6D5343; font-family: 'Nanum Pen Script', cursive; font-size:72.6967;">ap</text>
 <g>
 	<path style="fill:#603813;" d="M67.5,67.65c-2.708,0.153-5.417,0.259-8.125,0.362c-2.708,0.106-5.417,0.222-8.125,0.289
 		c-5.417,0.168-10.833,0.28-16.25,0.364c-5.417,0.094-10.833,0.137-16.25,0.165c-5.417,0.039-10.833,0.001-16.25-0.09L1.227,68.72
